@@ -2,4 +2,4 @@
 .env*
 
 # other sensitive fiels
-.md
+.md*
